@@ -1,0 +1,22 @@
+p {
+  padding: 20px;
+  display: inline-block;
+  border: 1px dotted gray;
+}
+
+.odd {
+  background: lightyellow;
+}
+
+.even {
+  background: lightgreen;
+}
+
+ul {
+  list-style: none;
+  display: inline;
+  li {
+    display: inline;
+    margin-left: 5px;
+  }
+}
